@@ -1,3 +1,3 @@
-#Website dokumentasi Laravel
+#Dokumentasi Laravel
 
 Website dokumentasi Laravel dalam bahasa Indonesia.

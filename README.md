@@ -1,3 +1,3 @@
-#Blog Dokumentasi Laravel
+#Dokumentasi Laravel
 
-Dokumentasi Laravel Bahasa Indonesia.
+Dokumentasi Laravel dalam bahasa Indonesia.
